@@ -64,7 +64,7 @@ nav a {
 .hero {
   display: flex;
   height: 700px;
-  background-image: url('images/img-mission-background.webp');
+  background-image: url("https://user-images.githubusercontent.com/27338138/234946046-dc357530-90ef-4e9c-a167-cd32e60723ec.png");
   margin-left: 30px;
   margin-right: 30px;
   margin-top: 90px;
@@ -101,7 +101,7 @@ nav a {
 .locations-section {
   margin: 30px;
   min-height: 500px;
-  background-image: url(images/img-locations-background.webp);
+  background-image: url("https://user-images.githubusercontent.com/27338138/234946267-ce00a986-d8b3-4aa8-b047-c7a93936bb75.png");
   background-size: cover;
   background-position: center;
 }
